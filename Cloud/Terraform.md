@@ -315,3 +315,4 @@ resource "custom_resource" "example" {
 **5.8. Implement Policy as Code**
 
 - Use tools like HashiCorp Sentinel or Open Policy Agent (OPA) to enforce policies on your Terraform configurations.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
